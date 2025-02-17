@@ -5,7 +5,7 @@
         "tasks.max": "1",
 		"group.id": "connect-cluster-group",
 		"topic.prefix": "server1",
-        "database.hostname": "its-d-bandb-02.bham.ac.uk",
+        "database.hostname": "its-d-bandb-02.fdsfds.ac.uk",
         "database.port": "1521",
         "database.user": "c##dbzuser",
         "database.password": "***UPDATE***",
